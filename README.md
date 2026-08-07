@@ -1,6 +1,6 @@
-  <p align="center">
+<p align="center">
   <img src="banner.png" alt="DecodeBot Banner" width="100%">
-</p>     
+</p>
                                                 # DecodeBot 🤖
 
 ### Intelligent Rule-Based AI Assistant built with Python
