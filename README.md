@@ -2,43 +2,48 @@
   <img src="banner.png" alt="DecodeBot Banner" width="100%">
 </p>
 
-                                           # DecodeBot 🤖
+<h1 align="center">DecodeBot</h1>
 
-                         ### Intelligent Rule-Based AI Assistant built with Python
+<p align="center">
+  <b>Intelligent Rule-Based AI Assistant Built with Python</b>
+</p>
 
-A beginner-friendly yet feature-rich chatbot that demonstrates the fundamentals of Artificial Intelligence using Python and rule-based decision making.
+<p align="center">
+  A beginner-friendly chatbot demonstrating the fundamentals of Artificial Intelligence using Python and rule-based decision making.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-green?style=for-the-badge)
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-00C853?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-</div>
-
----
-
-## Project Overview
-
-DecodeBot is a rule-based AI chatbot developed in Python that interacts with users through a command-line interface. Instead of using machine learning, it makes decisions using carefully designed conditional statements (`if-elif-else`), making it an excellent project for understanding the foundations of conversational AI.
-
-The chatbot provides educational responses, motivational quotes, programming jokes, study tips, and real-time date and time information while maintaining a continuous conversation until the user chooses to exit.
+</p>
 
 ---
 
-## Features
+# Project Overview
+
+DecodeBot is a rule-based AI chatbot developed entirely in Python. It interacts with users through a command-line interface and responds to predefined commands using Python's conditional statements.
+
+Unlike machine learning chatbots, DecodeBot requires no external APIs, datasets, or internet connection. It is designed to help beginners understand the core concepts of conversational AI by implementing intelligent responses with simple programming logic.
+
+---
+
+# Features
 
 - Interactive command-line chatbot
-- Personalized user greeting
+- Personalized user greetings
 - Time-based welcome messages
-- AI and Python knowledge responses
+- AI knowledge responses
 - Machine Learning explanation
 - Deep Learning explanation
-- Chatbot explanation
 - Generative AI explanation
 - Study tips
-- Random motivational quotes
-- Random programming jokes
-- Current date, time, and day
+- Motivational quotes
+- Programming jokes
+- Current date, time and day
 - Help menu
 - Multiple exit commands
 - Continuous conversation loop
@@ -46,77 +51,66 @@ The chatbot provides educational responses, motivational quotes, programming jok
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
 | Python 3 | Programming Language |
 | datetime | Date & Time |
-| random | Random Quotes & Jokes |
+| random | Random Motivation & Jokes |
 
 ---
 
-## Supported Commands
+# Supported Commands
 
-| Command | Function |
-|----------|----------|
+| Command | Description |
+|---------|-------------|
 | hello / hi / hey | Greeting |
 | what is ai | AI Definition |
-| machine learning | Machine Learning |
-| deep learning | Deep Learning |
+| machine learning | ML Explanation |
+| deep learning | DL Explanation |
 | chatbot | Chatbot Definition |
 | generative ai | Generative AI |
-| study tips | Study Advice |
+| study tips | Study Tips |
 | motivate me | Motivation |
 | tell me a joke | Programming Joke |
 | date | Current Date |
 | time | Current Time |
 | day | Current Day |
-| who created you | Creator Information |
-| help | Show Commands |
-| bye / exit / quit | Exit Program |
+| help | List Commands |
+| bye | Exit Chatbot |
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```text
-DecodeBot/
+DecodeBot-AI-Assistant/
 │
 ├── DecodeBot.py
 ├── README.md
+├── banner.png
 ├── LICENSE
 └── .gitignore
 ```
 
 ---
 
-## How It Works
+# Installation
 
-1. The user enters their name.
-2. DecodeBot greets the user based on the current time.
-3. The chatbot waits for commands.
-4. User input is processed using Python's `if-elif-else` statements.
-5. The appropriate response is displayed.
-6. The conversation continues until the user enters an exit command.
-
----
-
-## Installation
-
-Clone the repository:
+Clone the repository
 
 ```bash
-https://github.com/ayeshazaib/DecodeBot-AI-Assistant.git
+git clone https://github.com/Ayesha-Zayb/DecodeBot-AI-Assistant.git
 ```
 
-Navigate into the project:
+Move into the project folder
 
 ```bash
 cd DecodeBot-AI-Assistant
 ```
 
-Run the chatbot:
+Run the chatbot
 
 ```bash
 python DecodeBot.py
@@ -124,7 +118,7 @@ python DecodeBot.py
 
 ---
 
-## Example
+# Example
 
 ```text
 Welcome to DecodeBot!
@@ -135,7 +129,7 @@ Good Evening, Ayesha!
 
 Ayesha: what is ai
 
-Artificial Intelligence (AI) enables computers to perform tasks that normally require human intelligence.
+Artificial Intelligence enables computers to perform tasks that normally require human intelligence.
 
 Ayesha: motivate me
 
@@ -148,36 +142,35 @@ Goodbye! Have a wonderful day.
 
 ---
 
-## Python Concepts Demonstrated
+# Python Concepts Used
 
 - Functions
 - Loops
 - Conditional Statements
 - Lists
-- User Input
 - String Manipulation
-- Modular Programming
+- User Input
 - Random Module
 - Datetime Module
+- Modular Programming
 
 ---
 
-## Future Improvements
+# Future Improvements
 
-- Natural Language Processing (NLP)
-- Voice Recognition
-- Speech Output
 - GUI using Tkinter
-- Flask Web Application
+- Voice Assistant
+- Natural Language Processing
 - Database Integration
-- OpenAI API Integration
-- Weather API
+- OpenAI API
+- Flask Web Version
+- Weather Information
 - Wikipedia Search
-- User Authentication
+- Speech Recognition
 
 ---
 
-## Author
+# Author
 
 **Ayesha Zaib Warraich**
 
@@ -187,12 +180,12 @@ University of Agriculture Faisalabad
 
 ---
 
-## License
+# License
 
-This project is licensed under the MIT License.
+Licensed under the MIT License.
 
 ---
 
-## Show Your Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
+<p align="center">
+Made with ❤️ using Python
+</p>
