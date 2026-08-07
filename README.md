@@ -1,4 +1,8 @@
-# DecodeBot 🤖
+<p align="center">
+  <img src="assets/banner.png" alt="DecodeBot Banner" width="100%">
+</p>
+                                            
+                                            # DecodeBot 🤖
 
 <div align="center">
 
