@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="DecodeBot Banner" width="100%">
+  <img src="ChatGPT Image Aug 7, 2026, 11_56_PM.png" alt="DecodeBot Banner" width="100%">
 </p>
+
                                                 # DecodeBot 🤖
 
 ### Intelligent Rule-Based AI Assistant built with Python
