@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="assets/banner.png" alt="DecodeBot Banner" width="100%">
-</p>
-                                            
-                                            # DecodeBot 🤖
-
-<div align="center">
+  <p align="center">
+  <img src="banner.png" alt="DecodeBot Banner" width="100%">
+</p>     
+                                                # DecodeBot 🤖
 
 ### Intelligent Rule-Based AI Assistant built with Python
 
