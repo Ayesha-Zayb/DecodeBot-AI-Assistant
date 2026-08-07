@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Image Aug 7, 2026, 11_56_PM.png" alt="DecodeBot Banner" width="100%">
+  <img src="banner.png.png" alt="DecodeBot Banner" width="100%">
 </p>
 
                                                 # DecodeBot 🤖
