@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner.png.png" alt="DecodeBot Banner" width="100%">
+  <img src="banner.png" alt="DecodeBot Banner" width="100%">
 </p>
 
-                                                # DecodeBot 🤖
+                                           # DecodeBot 🤖
 
-### Intelligent Rule-Based AI Assistant built with Python
+                         ### Intelligent Rule-Based AI Assistant built with Python
 
 A beginner-friendly yet feature-rich chatbot that demonstrates the fundamentals of Artificial Intelligence using Python and rule-based decision making.
 
