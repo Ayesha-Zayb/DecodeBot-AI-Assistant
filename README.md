@@ -336,3 +336,13 @@ The project was developed with a focus on **learning, experimentation, problem-s
 <p align="center">
   <strong>Built with Python • Developed through Learning • Improved through Practice</strong>
 </p>
+## 📸 Project Screenshots
+
+### 💻 Source Code
+![DecodeBot Source Code](screenshots/decodebot-source-code.png)
+
+### 🤖 Welcome Screen
+![DecodeBot Welcome Screen](screenshots/decodebot-welcome-screen.png)
+
+### 🧪 Feature Demonstration
+![DecodeBot Feature Demo](screenshots/decodebot-feature-demo.png)
